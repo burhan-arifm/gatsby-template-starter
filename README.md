@@ -92,3 +92,7 @@ In this starter, you would find the directory structure like this:
 6.  📜 **jsconfig.json**
 
     This file is optional, but really helpful if you use vscode as your editor. In a nutshell, it makes the import path shorter.
+
+---
+
+**DISCLAIMER**: .keep file is intended so the empty directories would be uploaded. You can delete these files as you started using the directories. Also, you can remove the unused directories by your project.
