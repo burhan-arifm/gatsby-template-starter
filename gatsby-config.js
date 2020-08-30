@@ -1,5 +1,7 @@
 module.exports = {
-    plugins: [
-
-    ]
-}
+  siteMetadata: {
+    title: ``,
+    description: ``,
+  },
+  plugins: [`gatsby-plugin-sass`],
+};
